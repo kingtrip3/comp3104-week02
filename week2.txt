@@ -1,0 +1,16 @@
+Create folder comp3104
+Git init
+Create file test.txt inside
+	comp3104 folder
+Touch test.txt (FOR MAC)
+For windows simply do test.txt
+
+
+Git status
+
+
+Git commit -m "Your message"
+Git config -global user.name "Matthew Mukherjee"
+Git config -global user.email"matthew.mukherjee@georgebrown.ca"
+
+git remote add origin https://github.com/kingtrip3/comp3104-week02.git
